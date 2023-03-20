@@ -1,1 +1,1 @@
-# New bot template after the somewhat recent changes to the discord API which made some old stuff incompatible.
+## This is outdated and is not being maintained.
